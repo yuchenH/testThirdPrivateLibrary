@@ -1,0 +1,29 @@
+PODS:
+  - UMengUShare/Core (6.4.8.2):
+    - UMengUShare/Network
+  - UMengUShare/Network (6.4.8.2)
+  - UMengUShare/Social/ReducedQQ (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedSina (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/Social/ReducedWeChat (6.4.8.2):
+    - UMengUShare/Core
+  - UMengUShare/UI (6.4.8.2):
+    - UMengUShare/Core
+
+DEPENDENCIES:
+  - UMengUShare/Social/ReducedQQ
+  - UMengUShare/Social/ReducedSina
+  - UMengUShare/Social/ReducedWeChat
+  - UMengUShare/UI
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - UMengUShare
+
+SPEC CHECKSUMS:
+  UMengUShare: 370d180101e13ee0227ae657ab119ba97243d2b3
+
+PODFILE CHECKSUM: a55308831864bec9b6f1beb99dc14f3d82a06bbd
+
+COCOAPODS: 1.5.0
